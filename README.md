@@ -12,11 +12,17 @@ The goal of this HR Analytics project is to analyze employee data to identify tr
 **Key Insights**
 
 1.Employees with 11–15 years of experience have the highest average salary.
+
 2.Sales department has the highest average salary, while IT has the lowest.
+
 3.899 employees resigned between 2015–2024.
+
 4.2016 had the highest employee joining, while 2020 had the lowest.
-5.Analyst role recorded the highest resignations.
+
+5.Analyst role recorded the highest resignations
+.
 6.Only 2 employees had the highest bonus-to-salary ratio (0.44) among 1500 employees.
+
 7.Kolkata has the highest number of male and female employees.
 
 **Conclusion:**
