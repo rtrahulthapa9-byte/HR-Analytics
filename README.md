@@ -20,7 +20,7 @@ Companies often struggle to understand why customers stop using their services. 
 
 Objective of this project was to analyze customer churn patterns, monitor customer usage behavior, compare subscription plan performance, identify factors affecting customer retention, and create an interactive dashboard that provides clear business insights
 
-**Insights**
+**Key Insights**
 
 🔹 Customers who raised 0 support tickets show the highest retention, while those raising 7–8 tickets show the highest churn counts. High ticket volume signals unresolved pain customers try to get help, then leave.
 
